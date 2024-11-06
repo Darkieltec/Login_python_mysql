@@ -34,7 +34,7 @@ Para ejecutar este proyecto, asegúrate de tener instalado lo siguiente:
 
 1. **Clona este repositorio** en tu máquina local:
     ```bash
-    git clone https://github.com/tu-usuario/login_python_mysql.git
+   https://github.com/Darkieltec/Login_python_mysql.git
     ```
 
 2. **Ingresa a la carpeta del proyecto**:
