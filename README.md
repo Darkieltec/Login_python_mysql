@@ -41,8 +41,3 @@ Para ejecutar este proyecto, asegúrate de tener instalado lo siguiente:
     ```bash
     cd login_python_mysql
     ```
-
-3. **Configura la base de datos MySQL**:
-   - Crea una base de datos llamada `login_system`:
-   ```sql
-   CREATE DATABASE login_system;
